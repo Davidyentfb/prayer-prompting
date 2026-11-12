@@ -2,7 +2,7 @@
 
 The approved rebuild of [prayerprompting.com](https://prayerprompting.com), prepared November 11, 2026.
 
-**Design:** Astra — luminous gold (#D4AF37) on deep black, with deep royal purple woven in as the companion colour (violet #7B2CBF, deep purple #3B1470, amethyst #A78BFA for glows; roughly 70/30 gold to purple). Purple carries the aura behind the gold orb, the hero's lower gradient wash, the Brain niches' backlight, the intake's progress line and selected state, and secondary accents.
+**Design:** Astra — luminous gold (#D4AF37) and champagne (#F0D98C) on deep black (#060606), with bone text (#E8E6DF). Gold carries the orb's glow, the hero wash (black to charcoal), the intake's progress line and selected state, and every accent. (A purple companion palette was tried on November 11, 2026 and removed the same evening at the founder's direction; the design is gold-only. The two chosen art plates retain their own colours inside the artwork.)
 
 ## Files
 

@@ -2,7 +2,7 @@
 ### Astra design · The Brain · Intake flow · Human prayer portal · Data, notifications, tiers, and the learning system
 **Prepared November 11, 2026 · For Dj Jones Bey · Draft for the founder's approval**
 
-**Design palette (Astra, as amended by the founder, November 11, 22:58 EST):** luminous gold (#D4AF37) primary on deep black, with **deep royal purple woven in as the companion colour** — violet #7B2CBF, deep purple #3B1470, amethyst #A78BFA for glows. Purple carries the aura behind the gold orb, the hero's lower gradient wash, the Brain niches' backlight, the intake's selected state and progress line, and secondary accents — roughly a 70/30 gold-to-purple balance. Gold remains dominant.
+**Design palette (Astra — final, November 11, 2026):** luminous gold (#D4AF37) and champagne (#F0D98C) on deep black (#060606), bone text (#E8E6DF). Gold-only: it carries the orb's glow, the hero wash (black to charcoal), the Brain niches' framing light, the intake's selected state and progress line, and all accents. (History: a deep royal purple companion colour was added at 22:58 EST and removed at 23:22 EST the same evening, both at the founder's direction. The two founder-chosen art plates retain their own colours inside the artwork.)
 
 ---
 
